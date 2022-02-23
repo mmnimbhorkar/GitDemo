@@ -20,5 +20,7 @@ public void setLng(double lng) {
 
 // comment added in AddL
 // comment added in AddL by US guy
+// architect doing lot of changes
+// rest api and page object model
 
 }
