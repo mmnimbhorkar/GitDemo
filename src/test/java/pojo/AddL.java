@@ -18,5 +18,6 @@ public void setLng(double lng) {
 	this.lng = lng;
 }
 
+// comment added in AddL
 
 }
