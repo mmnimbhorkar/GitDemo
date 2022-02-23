@@ -1,0 +1,32 @@
+APIs are application programming interface, which act as interface between client and server.
+
+End Point : address / link where API is hosted on the server.
+	End point / request URL is constructed as: baseURL/resource/(Path/query) parameter
+	path parameter: is nothing but a sub resource; it is denoted by a '/' after resource. This is 1 level inside resource.
+	query parameter: is denoted by a '?' after resource. It is searched on the same resource.
+Headers / cookies: headers are nothing but additional data / metadata provided alongwith API request.
+
+Four HTTP methods: GET, POST, PUT, DELETE.
+	GET: to retrieve data from the server.
+	PUT: to update data on the server.
+	POST: to insert / create data on the server.
+	DELETE: to delete data from the server.
+
+==================================================================
+
+JIRA ports: port 8081 and 8006
+jira key: BO3R-F217-KDSH-IHTS
+jira link: http://localhost:8081/secure/WelcomeToJIRA.jspa.
+
+{
+    "session": {
+        "name": "JSESSIONID",
+        "value": "6A1FB9074EF644CD5A97645462BCBEA7" // cookie: 
+    },
+    "loginInfo": {
+        "loginCount": 3,
+        "previousLoginTime": "2022-02-06T15:36:01.191+0530"
+    }
+}
+
+JIRA attachment location: C:\Users\Lenovo\Atlassian\Application Data\Jira\data\attachments
