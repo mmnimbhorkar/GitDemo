@@ -19,5 +19,6 @@ public void setLng(double lng) {
 }
 
 // comment added in AddL
+// comment added in AddL by US guy
 
 }
